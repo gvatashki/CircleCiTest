@@ -1,0 +1,14 @@
+{
+  "name": "circlecitraining",
+  "version": "1.0.0",
+  "description": "all about testing",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Georgi Vatashki",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
